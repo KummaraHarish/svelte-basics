@@ -1,0 +1,26 @@
+Microsoft Windows [Version 10.0.19045.3693]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Harish Kummara>npm install -g degit
+
+added 1 package in 2s
+
+C:\Users\Harish Kummara>cd svelte
+The system cannot find the path specified.
+
+C:\Users\Harish Kummara>cd desktop
+
+C:\Users\Harish Kummara\Desktop>cd svelte
+
+C:\Users\Harish Kummara\Desktop\svelte>degit sveltejs/template myproject
+> cloned sveltejs/template#HEAD to myproject
+
+
+C:\Users\Harish Kummara\Desktop\svelte>cd myproject
+
+C:\Users\Harish Kummara\Desktop\svelte\myproject>code .
+
+in vs code
+open terminal check path is correct or not after
+npm install
+npm run dev
