@@ -9,6 +9,7 @@
 	 }
 	 let isPromo =false;
 	 //let age=26
+	 //
 	 let firstName = 'Kummara'
 	 let lastName = 'Harish'
 	 let beltcolor ='black'
